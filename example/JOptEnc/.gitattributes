@@ -1,0 +1,4 @@
+convert.bat eol=crlf
+convert.sh  eol=lf
+encode.bat  eol=crlf
+encode.sh   eol=lf
